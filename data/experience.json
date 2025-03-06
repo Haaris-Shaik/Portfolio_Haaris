@@ -1,0 +1,31 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/deloitte.png",
+      "title": "Data Analyst",
+      "company": "Deloitte",
+      "point1": "Yet to be joined",
+      "point2": "Will be mostly working on Data Acquisition and Management, Data Analysis and Interpretation, Data Visualization and Reporting",
+      "startDate": "July, 2025",
+      "endDate": ""
+    },
+    {
+      "clogo": "/companyLogo/unified.png",
+      "title": "Data Analyst Intern",
+      "company": "at, Unified Mentor",
+      "point1": "Worked on a real-world project with the Green Destination company's data to analyze the employees attrition rate",
+      "point2": "Used Python libraries like Pandas, NumPy, Matplotlib, Seaborn for data analysis and visualization",
+      "startDate": "October, 2024",
+      "endDate": "November, 2024"
+    },
+    {
+      "clogo": "/companyLogo/wordpress.png",
+      "title": "Content Writer",
+      "company": "Haaris' blogs",
+      "point1": "Writing technical and self-improvement blogs on various topics",
+      "point2": "Blogs are published on WordPress and Medium platforms",
+      "startDate": "Feb, 2025",
+      "endDate": "Present"
+    }
+  ]
+}

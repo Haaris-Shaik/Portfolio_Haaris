@@ -1,0 +1,141 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "PassOP",
+        "content": "Designed and developed a password manager using React, Tailwind CSS with CRUD operations such that passwords are stored in the local storage",
+        "imgurl": "/projectSS/passop.png",
+        "githubLink": "https://github.com/Haaris-Shaik/password-manager",
+        "deployedLink": "https://github.com/Haaris-Shaik/password-manager",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/react.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "House Price Prediction using Multi-Regression",
+        "content": "Designed and developed a machine learning model for house price prediction using Python, scikit-learn, numpy, pandas, seaborn, matplotlib.",
+        "imgurl": "/projectSS/housing.png",
+        "githubLink": "https://github.com/Haaris-Shaik/HousePricePrediction/blob/main/Chapter_2_House_Pricing_Project/Housing.ipynb",
+        "deployedLink": "https://github.com/Haaris-Shaik/HousePricePrediction/blob/main/Chapter_2_House_Pricing_Project/Housing.ipynb",
+        "tech": [
+          {
+            "tech": "/skillsLogos/python.png"
+          },
+          {
+            "tech": "/skillsLogos/jupyter.png"
+          },
+          {
+            "tech": "/skillsLogos/numpy.png"
+          },
+          {
+            "tech": "/skillsLogos/pandas.png"
+          },
+          {
+            "tech": "/skillsLogos/matplt.png"
+          },
+          {
+            "tech": "/skillsLogos/seaborn.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Number Classification",
+        "content": "Designed and implemented classification based machine learning model for handwritten digit classification using Python, scikit-learn, numpy, pandas, matplotlib.",
+        "imgurl": "/projectSS/class.png",
+        "githubLink": "https://github.com/Haaris-Shaik/NumberClassification/blob/main/Chapter_3_Classification/classification.ipynb",
+        "deployedLink": "https://github.com/Haaris-Shaik/NumberClassification/blob/main/Chapter_3_Classification/classification.ipynb",
+        "tech": [
+          {
+            "tech": "/skillsLogos/python.png"
+          },
+          {
+            "tech": "/skillsLogos/jupyter.png"
+          },
+          {
+            "tech": "/skillsLogos/numpy.png"
+          },
+          {
+            "tech": "/skillsLogos/pandas.png"
+          },
+          {
+            "tech": "/skillsLogos/matplt.png"
+          },
+          {
+            "tech": "/skillsLogos/seaborn.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Task Manager",
+        "content": "Task Manager is a application that was built using next js and mongodb. The application is used to create, read, update, and delete tasks.",
+        "imgurl": "/projectSS/todo.png",
+        "githubLink": "https://github.com/Haaris-Shaik/task_manager/tree/main",
+        "deployedLink": "https://github.com/Haaris-Shaik/task_manager/tree/main",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "T20 Data Analysis",
+        "content": "Designed and implemented a comprehensive T20 cricket data analytics project, leveraging web scraping, Python, and Power BI to extract actionable insights from the ICC T20 World Cup 2022 data.",
+        "imgurl": "/projectSS/t20.png",
+        "githubLink": "https://github.com/Haaris-Shaik/T20-Data-Analysis",
+        "deployedLink": "https://github.com/Haaris-Shaik/T20-Data-Analysis",
+        "tech": [
+          {
+            "tech": "/skillsLogos/bi.png"
+          },
+          {
+            "tech": "/skillsLogos/python.png"
+          },
+          {
+            "tech": "/skillsLogos/pandas.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Simon game",
+        "content": "Designed and Programmed Simon game using Javascript, HTML and CSS",
+        "imgurl": "/projectSS/simon.png",
+        "githubLink": "https://haaris-shaik.github.io/Simon-Game/",
+        "deployedLink": "https://haaris-shaik.github.io/Simon-Game/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          }
+        ]
+      }
+    ]
+  }
+}
