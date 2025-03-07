@@ -2,12 +2,12 @@ import { Html, Head, Main, NextScript } from "next/document";
 
 export const metadata = {
   charset: "utf-8",
-  title: "Nikhil Kadam - Portfolio",
+  title: "Haaris Shaik Portfolio",
   description:
-    "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
+    "A website about Haaris Shaik, data scientist, full stack developer, open source enthusiast, and tech creator.",
   keywords:
-    "Nikhil Kadam, Full Stack Developer, Open Source, Tech Creator, Nashik, Maharashtra, India",
-  author: "Nikhil Kadam",
+    "Haaris Shaik, Data Scientist, Full Stack Developer, Open Source, Tech Creator, Rajahmundry, Andhra Pradesh, India",
+  author: "Haaris Shaik",
   openGraph: {
     url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",
     title: "Nikhil Kadam - Portfolio",
@@ -16,7 +16,7 @@ export const metadata = {
     siteName: "Nikhil Kadam - Portfolio",
     images: [
       {
-        url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",
+        url: "https://portfolio-haaris.vercel.app/",
         width: 800,
         height: 600,
       },
@@ -31,7 +31,7 @@ export const metadata = {
       "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
     images: [
       {
-        url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",
+        url: "https://portfolio-haaris.vercel.app/",
         width: 800,
         height: 600,
       },
