@@ -9,11 +9,11 @@ export const metadata = {
     "Haaris Shaik, Data Scientist, Full Stack Developer, Open Source, Tech Creator, Rajahmundry, Andhra Pradesh, India",
   author: "Haaris Shaik",
   openGraph: {
-    url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",
-    title: "Nikhil Kadam - Portfolio",
+    url: "https://portfolio-haaris.vercel.app/",
+    title: "Haaris Shaik - Portfolio",
     description:
-      "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
-    siteName: "Nikhil Kadam - Portfolio",
+      "A website about Haaris Shaik, data scientist, full stack developer, open source enthusiast, and tech creator.",
+    siteName: "Haaris Shaik - Portfolio",
     images: [
       {
         url: "https://portfolio-haaris.vercel.app/",
@@ -26,9 +26,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nikhil Kadam - Portfolio",
+    title: "Haaris Shaik - Portfolio",
     description:
-      "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
+      "A website about Haaris Shaik, data scientist, full stack developer, open source enthusiast, and tech creator.",
     images: [
       {
         url: "https://portfolio-haaris.vercel.app/",
